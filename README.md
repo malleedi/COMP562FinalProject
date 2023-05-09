@@ -15,5 +15,5 @@ By using numerical data such as number of bedrooms, bathrooms, and square footag
 ### [Linear Regression with Location](https://github.com/malleedi/COMP562FinalProject/blob/main/LR_with_Geopy_Point_Data.ipynb)
 By using numerical data and GeoPy location point data of houses, we trained a Linear Regression model. The model resulted in an error rate of approximately 37%.
 
-### [Gradient Boosting Regression]
+### [Gradient Boosting Regression](https://github.com/malleedi/COMP562FinalProject/blob/main/gradient_booster.ipynb)
 By using numerical data, we trained a Gradient Boosting Regression model to find correlations amongst variables. The model resulted in an error rate of approximately 20%.
